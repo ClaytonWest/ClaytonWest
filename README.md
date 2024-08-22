@@ -10,7 +10,7 @@ Here are some of the projects I've been working on:
 
 ### [Bar Hive](https://github.com/ClaytonWest/Barhive)
 - **Description:** Online Social media app to add reviews on business near by while also keeping it social :).
-- **Technologies:** Python, Flask, Google Maps API, HTML, CSS, JS.
+- **Technologies:** Python, Flask, Google Maps API, HTML, CSS, JS, PostgreSQL, AWS S3.
 
 
 ## 🎯 Goals and Objectives

@@ -1,16 +1,23 @@
-## Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**ClaytonWest/ClaytonWest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [🔗 Visit My GitHub Profile](https://github.com/ClaytonWest)
 
-Here are some ideas to get you started:
+## 👤 About Me
+Hello! I'm Clayton, a passionate software engineer with a keen interest in Ai, Data Science, and automation. I enjoy solving complex problems and learning new technologies to stay at the cutting edge of the tech world. When I'm not coding, you might find me gaming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+Here are some of the projects I've been working on:
+
+### [Bar Hive](https://github.com/ClaytonWest/Barhive)
+- **Description:** Online Social media app to add reviews on business near by while also keeping it social :).
+- **Technologies:** Python, Flask, Google Maps API, HTML, CSS, JS.
+
+
+## 🎯 Goals and Objectives
+As a continuous learner, I'm always looking to enhance my skills and contribute to impactful projects. Here are some of my current goals:
+
+-Current Role: Software Devleoper
+-Goal: Become Senior level Developer
+
+## ✨ Amazing Readme(Just because)
+****

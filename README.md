@@ -16,8 +16,7 @@ Here are some of the projects I've been working on:
 ## 🎯 Goals and Objectives
 As a continuous learner, I'm always looking to enhance my skills and contribute to impactful projects. Here are some of my current goals:
 
--Current Role: Software Devleoper
--Goal: Become Senior level Developer
+-Goals: Become Senior level Developer, Learn a new tech stack as often as possible, adapt to new technology releases.
 
 ## ✨ Amazing Readme(Just because)
 ****

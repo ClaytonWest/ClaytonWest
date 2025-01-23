@@ -18,5 +18,4 @@ As a continuous learner, I'm always looking to enhance my skills and contribute 
 
 -Goals: Become Senior level Developer, Learn a new tech stack as often as possible, adapt to new technology releases.
 
-## ✨ Amazing Readme(Just because)
 ****

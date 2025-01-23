@@ -1,7 +1,5 @@
 # Welcome to My GitHub Profile!
 
-### [🔗 Visit My GitHub Profile](https://github.com/ClaytonWest)
-
 ## 👤 About Me
 Hello! I'm Clayton, a passionate software engineer with a keen interest in Ai, Data Science, and automation. I enjoy solving complex problems and learning new technologies to stay at the cutting edge of the tech world. When I'm not coding, you might find me gaming.
 

@@ -1,2 +1,2 @@
 # Welcome to My GitHub Profile!
-Im a nerd :D
+All my repos are private if they have any significant meaning :D 
